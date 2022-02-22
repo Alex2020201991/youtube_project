@@ -4,4 +4,4 @@ In this project we suppose to use linear analysis, Linear Regression and Extreme
 
 
 
-https://user-images.githubusercontent.com/73969654/155044922-6fa4f00b-9f44-4859-b290-7c48029bb3ad.jpg
+![youtube-1200x500](https://user-images.githubusercontent.com/73969654/155045511-d72a9f37-fc16-4e8a-85ef-d7e36233f6ab.jpg)
