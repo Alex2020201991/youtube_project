@@ -1,6 +1,8 @@
-Our task of this competition is to predict the like to view_count ratio of youtube videos based on the title, description, thumbnail and additional metadata.
+**Our task of this competition is to predict the like to view_count ratio of youtube videos based on the title, description, thumbnail and additional metadata.**
 
-In this project we suppose to use linear analysis, Linear Regression and Extreme Gradient Boosting. Best scores are: LR score is 70%, XGB score is 87%.
+**In this project we suppose to use linear analysis, Linear Regression and Extreme Gradient Boosting.** 
+
+**Best scores are: LR score is 70%, XGB score is 87%.**
 
 
 
